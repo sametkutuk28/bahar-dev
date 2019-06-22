@@ -1,0 +1,9 @@
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\bin\Debug\dizi index.exe.config
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\bin\Debug\dizi index.exe
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\bin\Debug\dizi index.pdb
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\obj\Debug\dizi index.csprojResolveAssemblyReference.cache
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\obj\Debug\dizi_index.Form1.resources
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\obj\Debug\dizi_index.Properties.Resources.resources
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\obj\Debug\dizi index.csproj.GenerateResource.Cache
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\obj\Debug\dizi index.exe
+c:\users\samet\onedrive\belgeler\visual studio 2013\Projects\dizi index\dizi index\obj\Debug\dizi index.pdb
